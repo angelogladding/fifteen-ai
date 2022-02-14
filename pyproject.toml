@@ -6,6 +6,9 @@ authors = ["Angelo Gladding <angelo@ragt.ag>"]
 license = "MIT"
 readme = "README.md"
 
+[tool.poetry.urls]
+Homepage = "https://github.com/angelogladding/fifteen-ai"
+
 [tool.poetry.dependencies]
 python = "^3.9"
 requests = "^2.27.1"
