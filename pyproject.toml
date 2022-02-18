@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "fifteen-ai"
-version = "0.2.1"
+version = "0.2.2"
 description = "TTS (text-to-speech) by 15.ai"
 authors = ["Angelo Gladding <angelo@ragt.ag>"]
 license = "MIT"
