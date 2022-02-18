@@ -8,9 +8,9 @@ pip install fifteen_ai
 ```python
 import fifteen_ai
 
-fifteen_ai.tts("I'm sorry Dave. You can't do that.", "Twilight Sparkle")
+fifteen_ai.tts("I'm sorry, Dave. I'm afraid I can't do that.", "Twilight Sparkle")
 ```
 
 ```shell
-python -m fifteen_ai "I'm sorry Dave. You can't do that."
+python -m fifteen_ai "I'm sorry, Dave. I'm afraid I can't do that."
 ```
